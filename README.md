@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on PeerToPeer
 - 👀 I’m interested in solving real world related problems
 - 🌱 I’m currently learning Backend Development And Gen AI
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at https://github.com/Singhkarishma1
 - 💬 Ask me about Javascript,Dsa
 - 📫 How to reach me karishamasingh0@gmai.com
 
